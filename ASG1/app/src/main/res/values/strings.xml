@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CSE118ASG01</string>
+    <string name="add_book">Add Book</string>
+    <string name="view_catalogue">View Catalogue</string>
+    <string name="exit">Exit</string>
+    <string name="AddBookTitle">Title</string>
+    <string name="AddBookAuthor">Author</string>
+    <string name="AddBookYear">Year Published</string>
+    <string name="AddBookDescription">Description</string>
+    <string name="AddBookISBN">ISBN</string>
+    <string name="AddBookSwitch">E-book available?</string>
+    <string name="AddBookSaveButton">Save</string>
+    <string name="e_book_available">E-Book Available</string>
+    <string name="title">TItle</string>
+    <string name="author">Author</string>
+    <string name="year">Year</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Has my device been moved?</string>
+    <string name="reset_button">Reset</string>
+    <string name="exit_button">Exit</string>
+    <string name="device_moved">Your device has been moved.</string>
+    <string name="device_not_moved">Your device has NOT been moved.</string>
+    <string name="status_text_default">Moved status text</string>
+</resources>

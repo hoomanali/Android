@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Image Database</string>
+    <string name="downloadButton">Download</string>
+    <string name="viewButton">View</string>
+    <string name="searchButton">Search</string>
+    <string name="imageUrlHint">URL of image</string>
+    <string name="imageTitleHint">Title of image</string>
+</resources>
